@@ -3,7 +3,8 @@
 ## Resources (유니티 에셋 스토어)
 ### [Warped Shooting Fx][link1]
 [link1]: https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246
-### 
+### [종스크롤 2D 슈팅 에셋 팩][link2]
+[link2]: https://assetstore.unity.com/packages/2d/characters/vertical-2d-shooting-assets-pack-188719
 
 -------------------------------------------------------------
 ># To do list
