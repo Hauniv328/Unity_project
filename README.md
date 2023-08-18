@@ -1,7 +1,8 @@
 # Unity_project
 
-## Resources
-### [Warped Shooting Fx] (https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246)
+## Resources (유니티 에셋 스토어)
+### Warped Shooting Fx: <https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246>
+### 
 
 # To do list
 
