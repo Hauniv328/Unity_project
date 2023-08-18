@@ -5,11 +5,10 @@
 [link1]: https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246
 ### 
 
-# To do list
-
->  ## 1. 메인화면
-### -무한배경
-### -시작, 종료, 스테이지 선택
+># To do list
+>	>## 1. 메인화면
+> > >### -무한배경
+> > >### -시작, 종료, 스테이지 선택
 
 ## 2.스테이지
 ### -플레이어 조작(rigid body 2D 이용)
