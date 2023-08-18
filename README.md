@@ -1,5 +1,8 @@
 # Unity_project
 
+## Resources
+### [Warped Shooting Fx] (https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246)
+
 # To do list
 
 ## 1. 메인화면
@@ -7,7 +10,7 @@
 ### -시작, 종료, 스테이지 선택
 
 ## 2.스테이지
-### -플레이어 조작
+### -플레이어 조작(rigid body 2D 이용)
 ### -적 스폰, 적 캐릭터AI
 ### -보스 구현(AI, 패턴)
 ### 사망 구현
